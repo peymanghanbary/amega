@@ -1,0 +1,17 @@
+{
+    "language": "فارسی",
+    "direction": "rtl",
+    "screens": {
+        "home": {
+            "title": "صفحه اصلی",
+            "currency":"نام ارز",
+            "volume":"حجم",
+            "lastPrice":"آخرین قیمت",
+            "24Hours":"تغییر 24h",
+            "searchMarkets":"جستجو نام ارز"
+        }
+    },
+    "farsi":"فارسی",
+    "english":"لاتین",
+    "langAbr":"fa"
+}
